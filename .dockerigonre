@@ -1,0 +1,7 @@
+*.txt
+.git
+.vscode
+*.md
+.cache
+logs/
+*.sh
